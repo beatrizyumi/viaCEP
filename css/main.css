@@ -1,0 +1,8 @@
+table {
+	font-weight: normal;
+}
+th {
+	border: 1px solid #000;
+	min-width: 100px;
+	padding: 0 10px;
+}
